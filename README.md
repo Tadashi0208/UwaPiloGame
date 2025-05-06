@@ -37,4 +37,6 @@ Este juego tiene como finalidad **enseñar los conceptos fundamentales del pensa
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   - git init (Inicializa el proyecto de git en tu local <<Debe crearse unaa carpeta .git oculta>>)
+   - git remote add origin https://github.com/Tadashi0208/UwaPiloGame.git
+   - git clone https://github.com/Tadashi0208/UwaPiloGame.git
