@@ -27,8 +27,8 @@ Este juego tiene como finalidad **enseñar los conceptos fundamentales del pensa
 ## ⚙️ Tecnologías Utilizadas
 
 - Motor de juego: Unity / Godot (según implementación)
-- Lenguaje: C# / GDScript / JavaScript
-- Arte: Assets 2D animados para personajes y escenarios
+- Lenguaje: C# / GDScript /
+- Arte: Assets 2D animados para personajes y escenarios. Blender 
 - Sonido: Efectos y música amigable para niños
 
 ---
@@ -37,6 +37,6 @@ Este juego tiene como finalidad **enseñar los conceptos fundamentales del pensa
 
 1. Clona este repositorio:
    ```bash
-   - git init (Inicializa el proyecto de git en tu local <<Debe crearse unaa carpeta .git oculta>>)
+   - git init (Inicializa el proyecto de git en tu local. Debe crearse unaa carpeta .git oculta)
    - git remote add origin https://github.com/Tadashi0208/UwaPiloGame.git
    - git clone https://github.com/Tadashi0208/UwaPiloGame.git
